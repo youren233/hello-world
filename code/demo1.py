@@ -24,7 +24,7 @@ def myconfig():
     num_epochs = 5
     num_classes = 10
     batch_size = 100
-    learning_rate = 0.001
+    learning_rate = 0.1
 
 
 # Convolutional neural network (two convolutional layers)
